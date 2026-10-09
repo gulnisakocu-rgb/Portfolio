@@ -20,24 +20,25 @@ Module description
 
 Domains and included areas:
 
--
--
+-Smart homes, smart cities and healthcare
+-Industrial automation, logistics, agriculture and transportation
+
 
 
 Commonly used (data) protocols:
 
--
--
+-MQTT and HTTP/HTTPS
+-Bluetooth, Wi-Fi, Zigbee and LoRaWAN
 
 Typical devices (appliance or micro controller):
 
--
--
+-Smart thermostats, security cameras, fitness trackers and industrial sensors
+-Arduino, Raspberry Pi and ESP32
 
 Challenges:
 
--
--
+-Data security, privacy and protection against cyberattacks
+-Compatibility between devices, reliable connectivity and energy consumption
 
 ## Reflection 1
 [Reflection 1](/Reflections/ref01.md)
